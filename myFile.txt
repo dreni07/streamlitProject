@@ -1,0 +1,2 @@
+   Rank        Name Platform    Year   Genre Publisher  EU_Sales  Global_Sales
+1     1  Wii Sports      Wii  2006.0  Sports  Nintendo     29.02         82.74
